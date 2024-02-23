@@ -1,13 +1,27 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Edu" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Pessoal!+👋🏽;+Meu+nome+é+Eduardo+Moraes!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salve+Galera!+✌️;+Meu+nome+é+Eduardo+Moraes!;" />
 </h1>
-- 👋 Hi, I’m @Edudin
-- 👀 I’m interested in games, learning new skills, going to the gym and programming
-- 🌱 I’m currently learning Python, html, css and javascript
-- 💻 How to reach me: www.linkedin.com/in/eduardo-cruz-de-moraes-75781a235
-<!---
-Edudin/Edudin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+## [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-cruz-de-moraes-75781a235)  [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edudin007@gmail.com)
+
+
+![Edudin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edudin&hide=contribs,prs&show_icons=true&theme=radical)
+
+##
+
+### Tecnologias que mais utilizo no dia-a-dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</div>
+
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edudin)](https://github.com/Edudin/github-readme-stats)
+
